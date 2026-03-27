@@ -21,43 +21,48 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{santos2024}
-A.~Santos, B.~Lima, and C.~Ferreira, ``Advanced numerical methods for complex
-  system analysis,'' \emph{Journal of Computational Mathematics}, vol.~45,
-  no.~3, pp. 234--251, 2024.
+\bibitem{ABCB2016}
+A.~A. SANTIAGO, ``Introdução dos búfalos no brasil,'' Associação
+  Brasileira de Criadores de Búfalos, Tech. Rep., 2016.
 
-\bibitem{oliveira2023}
-P.~Oliveira and M.~Costa, ``Machine learning applications in dynamic systems,''
-  \emph{IEEE Transactions on Systems, Man, and Cybernetics}, vol.~53, no.~8,
-  pp. 4567--4580, 2023.
+\bibitem{IBGE2023}
+\BIBentryALTinterwordspacing
+IBGE. (2023) Rebanho de bubalinos (búfalos). Tamanho do rebanho - 1.672.956
+  Cabeças. [Online]. Available:
+  \url{https://www.ibge.gov.br/explica/producao-agropecuaria/bubalinos/br}
+\BIBentrySTDinterwordspacing
 
-\bibitem{silva2025}
-J.~Silva, R.~Almeida, and T.~Rodrigues, ``Computational modeling of nonlinear
-  phenomena,'' \emph{Applied Mathematics and Computation}, vol. 412, p. 126589,
+\bibitem{EMBRAPA2019}
+M.~R.~F. Naiara Zoccal~Saraiva, José Ribamar Felipe~Marques, ``Manejo
+  reprodutivo de búfalos com o uso de biotécnicas da reprodução,'' Embrapa,
+  Belém, PA, Tech. Rep. ISSN 1983-0513, 5 2019.
+
+\bibitem{Embrapa1998}
+J.~R.~F. MARQUES, \emph{Criação de búfalos}, ser. Coleção criar, 5.\hskip
+  1em plus 0.5em minus 0.4em\relax Brasília, DF: Embrapa-SPI, 1998,
+  classificação zoológica dos búfalos; Raças; Produção de leite;
+  Produção de carne; Manejo sanitario; Alimentação e nutrição;
+  Instalações zootecnicas (carne/leite); Tração animal; Produtos derivados
+  do leite da búfala; Peculiaridades dos búfalos.
+
+\bibitem{FORPROEX}
+F.~de~Pró-Reitores de Extensão~das Universidades Públicas
+  Brasileiras~(FORPROEX), ``Forproex e renex,''
+  https://www.ufmg.br/proex/renex/index.php/apresentacao/forproex-e-renex,
   2025.
 
-\bibitem{brown2023}
-D.~Brown and F.~Taylor, \emph{Numerical Methods: Theory and Applications},
-  3rd~ed.\hskip 1em plus 0.5em minus 0.4em\relax Cambridge, UK: Cambridge
-  University Press, 2023.
+\bibitem{SCHAFFER2021}
+J.~M. SCHÄFFER, ``ProtÓtipo de um sistema web para gestÃo e controle dos
+  bovinos,'' Master's thesis, Instituto Federal de Educação Ciência e
+  Tecnologia Farroupilha, 11 2021.
 
-\bibitem{kumar2024}
-S.~Kumar and L.~Chen, ``Efficient algorithms for differential equation
-  systems,'' in \emph{Proceedings of the International Conference on
-  Computational Science}, Prague, Czech Republic, 2024, pp. 112--125.
+\bibitem{Pamella2017}
+P.~C. Oliveira, ``Software para controle de rebanho bovino leiteiro,''
+  \emph{Insitituto Federal de Educação, Ciência e Tecnologia de Goiás},
+  p.~64, 3 2017.
 
-\bibitem{wang2023}
-Y.~Wang, H.~Zhang, and K.~Lee, ``Comparative study of numerical integration
-  methods,'' \emph{Numerical Algorithms}, vol.~92, no.~4, pp. 1523--1547, 2023.
-
-\bibitem{johnson2024}
-R.~Johnson and E.~Martinez, ``Physics-informed neural networks for system
-  identification,'' \emph{Nature Computational Science}, vol.~4, no.~2, pp.
-  145--159, 2024.
-
-\bibitem{zhang2025}
-X.~Zhang, Q.~Liu, and W.~Anderson, ``Deep learning approaches for complex
-  system dynamics,'' \emph{Artificial Intelligence Review}, vol.~58, no.~1, pp.
-  89--112, 2025.
+\bibitem{LIMA2023}
+R.~L. S.~O. Daniel F.~Lima, Teodoro P.~Marques, ``Leite cowtrol: Controle de
+  produÇÃo de leite e reproduÇÃo de gado,'' Master's thesis, 8 2023.
 
 \end{thebibliography}
