@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.7)  26 MAR 2026 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.7)  26 MAR 2026 21:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -607,7 +607,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 87.
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (artigo.aux
 Package babel Info: 'portuguese' activates 'portuges' shorthands.
-(babel)             Reported on input line 10.
+(babel)             Reported on input line 9.
 )
 \openout1 = `artigo.aux'.
 
@@ -732,107 +732,107 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 Package lipsum Warning: Unknown language 'latin'. Hyphenation patterns for
 (lipsum)                'portuguese' will be used instead.
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 110.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 110.
-
-Overfull \hbox (1.14468pt too wide) in paragraph at lines 110--111
-[]\T1/lmr/m/n/10.95 Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunt tristique,
- []
 
 
-Overfull \hbox (3.62039pt too wide) in paragraph at lines 110--111
-\T1/lmr/m/n/10.95 libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing
- []
-
-
-
-<imgs/base/fatec-rgt.png, id=57, 202.1151pt x 91.3011pt>
+<imgs/base/fatec-rgt.png, id=54, 202.1151pt x 91.3011pt>
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 111.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 110.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-<imgs/base/cps-logo.png, id=59, 63.1158pt x 42.3984pt>
+<imgs/base/cps-logo.png, id=56, 63.1158pt x 42.3984pt>
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 111.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 110.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-<imgs/base/governo-sp-secretaria-logo.png, id=60, 3144.74875pt x 557.08125pt>
+<imgs/base/governo-sp-secretaria-logo.png, id=57, 3144.74875pt x 557.08125pt>
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 111.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 110.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [1
 
 {/home/v1nisouza/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc} <./imgs/base/fatec-rgt.png> <./imgs/base/cps-logo.png> <./imgs/base/governo-sp-secretaria-logo.png>]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 120.
- (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 121.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 121.
+
+Overfull \hbox (1.14468pt too wide) in paragraph at lines 121--122
+[]\T1/lmr/m/n/10.95 Nulla malesuada porttitor diam. Donec felis erat, congue non, volutpat at, tincidunt tristique,
+ []
+
+
+Overfull \hbox (3.62039pt too wide) in paragraph at lines 121--122
+\T1/lmr/m/n/10.95 libero. Vivamus viverra fermentum felis. Donec nonummy pellentesque ante. Phasellus adipiscing
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 131.
+(/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 132.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 134.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 132.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 134.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 132.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 134.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [2{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}]
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 160.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 154.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 160.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 154.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 160.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 154.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[3{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<imgs/img_001.jpg, id=113, 963.6pt x 542.025pt>
+[3]
+<imgs/img_001.jpg, id=108, 963.6pt x 542.025pt>
 File: imgs/img_001.jpg Graphic file (type jpg)
 <use imgs/img_001.jpg>
-Package pdftex.def Info: imgs/img_001.jpg  used on input line 185.
+Package pdftex.def Info: imgs/img_001.jpg  used on input line 196.
 (pdftex.def)             Requested size: 318.66948pt x 179.24924pt.
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 197.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 200.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 197.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 197.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[4{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc} <./imgs/img_001.jpg>]
+[4{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathex.enc}]
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 234.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 230.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 234.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 230.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 234.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 230.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[5]
-Overfull \hbox (3.54095pt too wide) in paragraph at lines 246--247
+[5 <./imgs/img_001.jpg>]
+Overfull \hbox (3.54095pt too wide) in paragraph at lines 257--258
 \T1/lmr/m/n/10.95 Praesent scelerisque. Maecenas posuere sodales odio. Vivamus metus lacus, varius quis, imperdiet
  []
 
@@ -850,21 +850,35 @@ File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 258.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[6] (artigo.bbl)
+[6] (artigo.bbl
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 273.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 39.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 273.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 39.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 273.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 39.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[7] (artigo.aux)
+[7])
+
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 284.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 284.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 284.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+[8] (artigo.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -873,17 +887,17 @@ Package rerunfilecheck Info: File `artigo.out' has not changed.
 (rerunfilecheck)             Checksum: D24D4A55EFA417C23D081CA3F8D76053;1569.
  ) 
 Here is how much of TeX's memory you used:
- 25022 strings out of 470067
- 463754 string characters out of 5482313
- 942941 words of memory out of 5000000
- 52920 multiletter control sequences out of 15000+600000
+ 25024 strings out of 470067
+ 463781 string characters out of 5482313
+ 943005 words of memory out of 5000000
+ 52921 multiletter control sequences out of 15000+600000
  715161 words of font info for 101 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 84i,19n,87p,507b,972s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,18n,87p,507b,979s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmex10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmmi10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmmi8.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr6.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr7.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr8.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr9.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmsy8.pfb>
-Output written on artigo.pdf (7 pages, 517469 bytes).
+Output written on artigo.pdf (8 pages, 520108 bytes).
 PDF statistics:
- 235 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
  129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

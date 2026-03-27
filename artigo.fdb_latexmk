@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex artigo"] 1774567299.1305 "artigo.aux" "artigo.bbl" "artigo" 1774568099.25448 0
+["bibtex artigo"] 1774571769.01117 "artigo.aux" "artigo.bbl" "artigo" 1774571851.1412 0
   "./referencias.bib" 1774566136.70101 2990 7df82262b3463a33808ac3d8b3233b49 ""
   "/home/v1nisouza/.miktex/texmfs/install/bibtex/bst/ieeetran/IEEEtran.bst" 1774566640.72533 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "artigo.aux" 1774568098.46365 3915 3a35405a610e972a9bdfe718ed13e348 "pdflatex"
+  "artigo.aux" 1774571850.43618 3958 e57192649174415ab6e92deb2f7f0abc "pdflatex"
   (generated)
   "artigo.bbl"
   "artigo.blg"
   (rewritten before read)
-["pdflatex"] 1774568097.2615 "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" "artigo.pdf" "artigo" 1774568099.25469 0
+["pdflatex"] 1774571849.25116 "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" "artigo.pdf" "artigo" 1774571851.14173 0
   "/home/v1nisouza/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1774566641.11156 118633 68432cd66343f12f5b8f3dfb54f3caca ""
   "/home/v1nisouza/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1759880156.12673 10086445 5638121a40a67cec7a4c30f2727e2fee ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1759880193.43273 2375 baa924870cfb487815765f9094cf3728 ""
@@ -217,11 +217,11 @@
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/tools/array.sty" 1759880334.44033 15698 f5f20b24886bb50156054c53e19b13fd ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/url/url.sty" 1759880405.96648 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1759880204.71933 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" 1774568096.38113 11748 9d5707c79839f04ef195df08928872c7 ""
-  "artigo.aux" 1774568098.46365 3915 3a35405a610e972a9bdfe718ed13e348 "pdflatex"
-  "artigo.bbl" 1774567299.30069 2460 92fbf10454e9857c22e999eea9dd5437 "bibtex artigo"
-  "artigo.out" 1774568098.46565 1569 d24d4a55efa417c23d081ca3f8d76053 "pdflatex"
-  "artigo.tex" 1774568096.38113 11748 9d5707c79839f04ef195df08928872c7 ""
+  "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" 1774571848.63418 12308 84eec6732429c13b347dfe915944cd84 ""
+  "artigo.aux" 1774571850.43618 3958 e57192649174415ab6e92deb2f7f0abc "pdflatex"
+  "artigo.bbl" 1774571769.18543 2460 92fbf10454e9857c22e999eea9dd5437 "bibtex artigo"
+  "artigo.out" 1774571850.43818 1569 d24d4a55efa417c23d081ca3f8d76053 "pdflatex"
+  "artigo.tex" 1774571848.63418 12308 84eec6732429c13b347dfe915944cd84 ""
   "imgs/base/cps-logo.png" 1774566136.69876 2862 d588855dab37cf02df5929f82dd50a56 ""
   "imgs/base/fatec-rgt.png" 1774566136.69895 9297 895b781ed3c57ef1597e82c85b50132b ""
   "imgs/base/governo-sp-secretaria-logo.png" 1774566136.69952 53030 823b25ca4fa668cc2a408147ca9ebe91 ""
