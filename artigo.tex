@@ -96,20 +96,20 @@
 % Abstract
 \section*{Abstract}
 
-\lipsum[1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Efficient buffalo management is essential for the development of dairy farming, especially in regions that are economically dependent on milk production. However, herd data control and analysis are still carried out manually on many farms, which compromises productivity and strategic decision-making. This study proposes the development of a digital platform to assist in the management of buffalo herds, focusing on milk production, using web and mobile technologies. The solution integrates a web application and a mobile application connected to an API developed in Node.js, which is responsible for communication with the database. The platform allows the registration and visualization of detailed information about the animals, such as maturity stage, breed, sex, and lactation performance, in addition to offering graphical resources to facilitate productivity analysis. The proposal aims to modernize the management process, support decision-making in the field, and promote smarter control of milk production.
 
 \vspace{0.3cm}
-\noindent\textit{\textbf{Keywords:}} Complex systems, Numerical methods, Computational analysis, Mathematical modeling, Simulation
+\noindent\textit{\textbf{Keywords:}} Buffalo herd information system, Herd management, Random Forest Regressor, Milk production
 
 \vspace{0.2cm}
 
 % Resumo
 \section*{Resumo}
 
-\lipsum[1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+O manejo eficiente de bubalinos é essencial para o desenvolvimento da pecuária leiteira, especialmente em regiões que dependem economicamente da produção de leite. No entanto, o controle e a análise de dados de rebanhos ainda são realizados de forma manual em muitas propriedades, o que compromete a produtividade e a tomada de decisões estratégicas. Este estudo propõe o desenvolvimento de uma plataforma digital para auxiliar na gestão de bubalinos, com foco na produção de leite, utilizando tecnologias web e dispositivos móveis. A solução integra uma aplicação web e uma aplicação móvel conectadas a uma API desenvolvida em Node.js, responsável pela comunicação com a base de dados. A plataforma permite o registro e a visualização de informações detalhadas sobre os animais, como estágio de maturidade, raça, sexo e desempenho na lactação, além de oferecer recursos gráficos para facilitar a análise de produtividade. A proposta visa modernizar o processo de manejo, apoiar a tomada de decisões no campo e promover um controle mais inteligente da produção leiteira.
 
 \vspace{0.3cm}
-\noindent\textit{\textbf{Palavras-chave:}} Sistemas complexos, Métodos numéricos, Análise computacional, Modelagem matemática, Simulação
+\noindent\textit{\textbf{Palavras-chave:}} Sistema de informação para bubalinocultura, Manejo de rebanho, Random Forest Regressorm, Produção de leite 
 
 \vspace{0.5cm}
 \noindent\rule{\textwidth}{0.5pt}
@@ -171,131 +171,97 @@ Observa-se que ambos os trabalhos analisados possuem como foco exclusivo a gest�
 % Metodologia
 \section{Metodologia}
 
-\lipsum[8] A metodologia desenvolvida neste trabalho segue as etapas ilustradas na Figura \ref{fig:exemplo} e descritas a seguir.
+A plataforma proposta, denominada Buffs, consiste no desenvolvimento de uma aplicação multiplataforma composta por versões web e mobile, atuando como o principal meio de interação entre o usuário e os dados da propriedade. A aplicação disponibiliza uma interface gráfica intuitiva e orientada a tarefas, permitindo o registro, consulta e análise das informações cadastradas, assegurando controle preciso e acompanhamento em tempo real do rebanho, desde que alimentada continuamente pelo usuário.
 
-\subsection{Coleta de Dados}
+A versão mobile, direcionada a funcionários e médicos veterinários, foi projetada com foco na usabilidade em campo, adotando uma interface simplificada, com navegação objetiva e elementos visuais que facilitam a rápida inserção de dados. Nessa aplicação, o usuário pode acessar funcionalidades como registro de ordenhas, acompanhamento do estado sanitário dos animais e consulta rápida ao histórico individual do rebanho, com feedback visual imediato para validação das informações inseridas. Por sua vez, a plataforma web, voltada a gestores e proprietários, apresenta uma interface mais analítica e abrangente, estruturada em painéis organizados que permitem a visualização consolidada dos dados da propriedade. Nessa versão, são disponibilizados recursos como indicadores produtivos, controle de piquetes, inventário do rebanho e acesso detalhado ao histórico de cada animal, possibilitando uma análise estratégica e tomada de decisão baseada em dados.
 
-\lipsum[9] Os dados foram coletados através de simulações computacionais utilizando parâmetros específicos. A Tabela \ref{tab:parametros} apresenta os principais parâmetros utilizados nas simulações.
+Ambas as versões atuam de forma integrada, promovendo sincronização automática por meio da infraestrutura de back-end, garantindo consistência e integridade das informações em tempo real, independentemente do dispositivo utilizado. Essa abordagem assegura que os dados coletados em campo sejam imediatamente refletidos nos ambientes de análise gerencial, reduzindo inconsistências e otimizando o processo de gestão da propriedade.
 
-\begin{table}[H]
-\centering
-\caption{Parâmetros utilizados nas simulações computacionais}
-\label{tab:parametros}
-\begin{tabular}{@{}lccl@{}}
-\toprule
-\textbf{Parâmetro} & \textbf{Símbolo} & \textbf{Valor} & \textbf{Unidade} \\ \midrule
-Tempo de simulação & $T_{sim}$ & 1000 & s \\
-Passo de integração & $\Delta t$ & 0.01 & s \\
-Número de iterações & $N_{iter}$ & 10000 & - \\
-Tolerância & $\epsilon$ & $10^{-6}$ & - \\
-Fator de amortecimento & $\zeta$ & 0.15 & - \\
-Frequência natural & $\omega_n$ & 25.0 & rad/s \\ \bottomrule
-\end{tabular}
-\end{table}
+\subsection{Fluxo Operacional da Aplicação Móvel}
 
-\subsection{Processamento e Análise}
+Na Figura 1, é possível observar o fluxo operacional desempenhado por funcionários e médicos veterinários ao utilizarem o sistema por meio da aplicação móvel. O processo tem início com a autenticação do usuário, seguida do acesso às funcionalidades de registro e consulta de informações zootécnicas, sanitárias, reprodutivas e produtivas dos animais.
 
-\lipsum[10] O processamento dos dados seguiu um protocolo rigoroso de análise estatística. Os métodos numéricos clássicos foram implementados, incluindo o método de Euler, cuja equação fundamental é expressa como:
+Durante a inserção de dados, especialmente no contexto do registro de ordenhas, o sistema realiza validações iniciais e, em seguida, aciona automaticamente um módulo de inteligência artificial generativa baseado no modelo Gemini. Esse módulo é responsável por analisar, em tempo real, as descrições inseridas pelo usuário, identificando padrões linguísticos e termos técnicos associados à ocorrência de mastite. Quando uma possível anormalidade é detectada, a IA classifica o nível de gravidade da situação e gera alertas contextualizados, auxiliando o usuário na tomada de decisão quanto à necessidade de intervenção imediata.
 
-\begin{equation}
-\frac{dy}{dt} = f(t, y), \quad y(t_0) = y_0
-\label{eq:euler}
-\end{equation}
+Além da análise semântica, o sistema também garante a persistência dos dados por meio do envio das informações para uma Interface de Programação de Aplicações (API), que atua como camada intermediária entre a aplicação e o banco de dados. Essa API é responsável por validar, processar e armazenar os registros de forma estruturada, assegurando integridade e consistência das informações.
 
-onde $f(t, y)$ representa a função que descreve o sistema dinâmico. Para otimização dos parâmetros do modelo, utilizou-se a seguinte função de custo:
-
-\begin{equation}
-J(\theta) = \frac{1}{2m} \sum_{i=1}^{m} \left(h_\theta(x^{(i)}) - y^{(i)}\right)^2 + \frac{\lambda}{2m}\sum_{j=1}^{n}\theta_j^2
-\label{eq:cost_function}
-\end{equation}
-
-onde $\theta$ representa os parâmetros do modelo, $m$ é o número de amostras, $\lambda$ é o parâmetro de regularização, e $h_\theta(x)$ é a hipótese do modelo. A transformada de Fourier foi aplicada para análise no domínio da frequência:
-
-\begin{equation}
-F(\omega) = \int_{-\infty}^{\infty} f(t) e^{-i\omega t} dt
-\label{eq:fourier}
-\end{equation}
+Paralelamente, os dados coletados alimentam um segundo módulo de inteligência artificial, baseado no algoritmo Random Forest Regressor, que utiliza essas informações para gerar predições relacionadas à produção leiteira dos animais. Esse fluxo integrado permite não apenas o registro operacional das atividades, mas também a geração de conhecimento estratégico a partir dos dados, contribuindo para a melhoria contínua da gestão da propriedade.
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.7\textwidth]{imgs/img_001.jpg}
-\caption{Exemplo de visualização dos resultados obtidos através da metodologia proposta. A figura ilustra o comportamento do sistema ao longo do tempo.}
-\label{fig:exemplo}
+\includegraphics[width=0.7\textwidth]{imgs/diagrama_funcionario.png}
+\caption{Fluxograma do processo de coleta e processamento de dados realizado pela aplicação móvel.}
+\label{fig:fluxograma1}
 \end{figure}
 
-\subsection{Validação do Modelo}
+\subsection{Fluxo Operacional da Aplicação Móvel}
 
-\lipsum[11] A validação foi realizada comparando os resultados simulados com dados experimentais. O erro médio quadrático (RMSE) foi calculado através de:
+Já na Figura 2, é apresentado o fluxo de utilização da plataforma web pelo proprietário ou gestor da propriedade. Nesse contexto, o sistema disponibiliza painéis interativos que consolidam informações provenientes das atividades operacionais realizadas no campo, apresentando indicadores relacionados à produtividade, sanidade e organização do rebanho.
 
-\begin{equation}
-RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2}
-\label{eq:rmse}
-\end{equation}
+A interface permite a navegação entre diferentes módulos analíticos, nos quais o usuário pode acessar o prontuário individual dos animais, visualizar o histórico completo de registros e acompanhar as predições geradas pelo modelo de regressão. Além disso, os alertas gerados pela análise de mastite são exibidos de forma centralizada, possibilitando ao gestor identificar rapidamente situações que demandam atenção.
 
-onde $y_i$ são os valores observados e $\hat{y}_i$ são os valores preditos pelo modelo.
+O sistema também oferece a possibilidade de inserção e atualização de dados diretamente pela plataforma web, garantindo flexibilidade no uso e permitindo que correções ou complementações sejam realizadas sem a necessidade de acesso ao dispositivo móvel. Todas as interações são sincronizadas com o banco de dados central por meio da API, assegurando consistência das informações em tempo real.
+
+Dessa forma, a plataforma web atua como uma camada estratégica do sistema, permitindo ao gestor monitorar o desempenho da propriedade, identificar padrões e tomar decisões fundamentadas em dados consolidados e análises automatizadas.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth]{imgs/diagrama_propreitario.png}
+\caption{Fluxograma do processo de coleta e processamento de dados realizado pela aplicação móvel.}
+\label{fig:fluxograma2}
+\end{figure}
+
+\subsection{Fluxo Completo}
+
+Foi apresentada, anteriormente, toda a fundamentação teórica referente ao fluxo de funcionamento do sistema. Para que esse fluxo ocorra de forma adequada, é necessário o uso de um conjunto de ferramentas e tecnologias que viabilizam a comunicação entre as diferentes camadas da aplicação, conforme ilustrado na Figura 3. A interação com o usuário inicia-se nas etapas I e II. A Etapa I corresponde à plataforma web, desenvolvida em \textit{React} com o framework \textit{Next.js}. Atualmente, essa plataforma encontra-se hospedada na Vercel, uma solução \textit{serverless} que dispensa a necessidade de gerenciamento de servidores dedicados. A Etapa II refere-se à plataforma mobile, desenvolvida em \textit{React Native}, um framework composto por ferramentas voltadas à criação de aplicações móveis nativas \cite{Bruna2021}. O aplicativo tem como principal funcionalidade oferecer uma interface simplificada e intuitiva, voltada ao lançamento de dados em campo.
+
+Ambas as plataformas comunicam-se com o back-end (Etapa III) por meio de uma API, desenvolvida em \textit{TypeScript} com o framework \textit{Nest.js}. Como parte do back-end, foram implementados recursos adicionais com o objetivo de aperfeiçoar a usabilidade e a fluidez do sistema, destacando-se a integração com dois modelos de Inteligência Artificial (IA). A primeira delas é a API \textit{Gemini} (Etapa V), um modelo generativo multimodal desenvolvido pelo Google. No contexto deste projeto, a \textit{Gemini} é utilizada no sistema de alertas, por meio do modelo \textit{gemini-1.5-flash}. Essa implementação analisa um \textit{prompt} elaborado especificamente para o domínio do sistema e define a prioridade de cada alerta como alta, média ou baixa, simplificando significativamente a lógica de priorização e resposta.
+
+A segunda IA (Etapa IV) foi desenvolvida pelo próprio grupo e baseia-se no algoritmo \textit{Random Forest Regressor}, um método de aprendizado supervisionado que combina múltiplas árvores de decisão para realizar previsões numéricas. O modelo é treinado com diversas amostras aleatórias dos dados e, para cada árvore, um subconjunto de atributos, conhecidos como \textit{features}, é selecionado de forma aleatória, promovendo diversidade entre os estimadores. A predição final é obtida a partir da média dos resultados de todas as árvores, aumentando a precisão e reduzindo o risco de sobreajuste, conhecido como \textit{overfitting}, em comparação com o uso de uma única árvore de decisão. No contexto deste trabalho, o modelo tem como objetivo prever individualmente a produção de leite de cada fêmea, utilizando seu histórico produtivo, reprodutivo, sanitário, zootécnico e genético. Essas informações são consolidadas em um conjunto de \textit{features} estruturadas e, a partir delas, o sistema gera uma predição que classifica o potencial produtivo em categorias: alto, bom, médio ou baixo. O resultado é ainda comparado com a média da propriedade e fornece informações adicionais, como o volume previsto em litros, o percentual em relação à média e a data da predição.
+
+Para disponibilizar todo o back-end de forma operacional e acessível, este foi hospedado na nuvem utilizando o serviço \textit{Amazon EC2} (\textit{Elastic Compute Cloud}), da \textit{Amazon Web Services} (AWS) (Etapa VII). Essa escolha permite escalar a infraestrutura de forma dinâmica, otimizando custos e garantindo melhor desempenho do sistema. A API é responsável por gerenciar toda a lógica de negócios, incluindo as operações de criação, consulta, atualização e exclusão de registros no banco de dados, além de processar requisições provenientes das plataformas web e mobile. O controle de \textit{deploy} automático (Etapa VIII) é realizado por meio do \textit{GitHub Actions}, que integra diretamente com a instância EC2, automatizando atualizações e correções e assegurando que a aplicação permaneça disponível e atualizada para os usuários.
+
+Para o armazenamento das informações, o banco de dados do sistema (Etapa VI) foi desenvolvido em \textit{PostgreSQL}, escolhido pela sua robustez e pela consistência oferecida pelo modelo relacional na organização e integridade dos dados. Essa estrutura permite armazenar grandes volumes de informações de forma estruturada, garantindo que registros relacionados, como dados de produção, lactação e histórico sanitário dos animais, sejam mantidos de forma segura e coerente. Atualmente, o banco de dados encontra-se hospedado na nuvem por meio da plataforma \textit{Supabase}, que oferece compatibilidade nativa com o PostgreSQL, além de recursos adicionais de autenticação e armazenamento.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth]{imgs/buffs-arch-model.png}
+\caption{Fluxograma do processo de coleta e processamento de dados realizado pela aplicação móvel.}
+\label{fig:fluxograma2}
+\end{figure}
+
+Após a análise do fluxo apresentado, nota-se que grande parte do sistema encontra-se hospedada na nuvem, seja por meio de serviços \textit{serverless}, bancos de dados em ambiente \textit{cloud} ou máquinas virtuais dedicadas. Essas escolhas, no momento atual, mostraram-se adequadas sob a ótica do grupo, uma vez que permitem distribuir as \textit{stacks} entre diferentes serviços, evitando a sobrecarga de um único sistema. Além disso, essa configuração possibilita a realização de testes de forma gratuita, sem a necessidade de investimentos iniciais em infraestrutura. Outro fator determinante nas decisões de arquitetura foi o alinhamento com os conteúdos abordados em sala de aula, privilegiando tecnologias e metodologias com as quais o grupo possui maior afinidade e embasamento técnico. Essa estratégia busca não apenas consolidar o aprendizado adquirido ao longo do curso, mas também garantir que o desenvolvimento ocorra de maneira segura e fundamentada em conhecimentos previamente assimilados.
 
 % Resultados e Discussões
 \section{Resultados e Discussões}
 
-\lipsum[12-13] Os resultados obtidos demonstram a eficácia da metodologia proposta. A Tabela \ref{tab:resultados} apresenta uma comparação quantitativa entre diferentes abordagens.
+Para avaliar o desempenho do modelo de Inteligência Artificial desenvolvido, foram realizadas análises comparativas entre as predições geradas e os valores reais de produção de leite. O modelo, baseado no algoritmo \textit{Random Forest Regressor}, foi avaliado por meio do coeficiente de determinação (\(R^2\)), obtendo-se o valor de 0,73.
 
-\begin{table}[H]
+Conforme apresentado no Gráfico (Figura 4), observa-se a dispersão das predições em relação aos valores reais, na qual a maior parte dos pontos se concentra próxima à diagonal \(y = x\), indicando boa aderência entre os valores estimados e observados. Esse comportamento evidencia que o modelo é capaz de explicar aproximadamente 73\% da variabilidade da produção de leite, demonstrando desempenho satisfatório para o contexto proposto.
+
+\begin{figure}[H]
 \centering
-\caption{Comparação de desempenho entre diferentes métodos}
-\label{tab:resultados}
-\begin{tabular}{@{}lccc@{}}
-\toprule
-\textbf{Método} & \textbf{RMSE} & \textbf{Tempo (s)} & \textbf{Precisão (\%)} \\ \midrule
-Método Proposto & 0.0023 & 15.2 & 98.5 \\
-Euler Clássico & 0.0145 & 8.7 & 92.3 \\
-Runge-Kutta 4ª ordem & 0.0038 & 21.5 & 97.1 \\
-Método Adaptativo & 0.0031 & 18.9 & 97.8 \\ \bottomrule
-\end{tabular}
-\end{table}
+\includegraphics[width=0.7\textwidth]{imgs/R.jpeg}
+\caption{Dispersão entre os valores reais e as predições do modelo de regressão para a produção de leite}
+\label{fig:fluxograma2}
+\end{figure}
 
-\subsection{Análise Quantitativa}
+Apesar disso, nota-se a presença de alguns desvios em determinadas amostras, o que pode estar associado à variabilidade natural dos dados zootécnicos ou à limitação do conjunto de atributos utilizados. Ainda assim, o modelo apresenta consistência nas predições, sendo adequado como ferramenta de apoio à tomada de decisão no manejo do rebanho.
 
-\lipsum[14] Os dados quantitativos revelam que o método proposto apresenta melhor desempenho em termos de precisão. A relação entre os parâmetros pode ser expressa por:
-
-\begin{equation}
-\eta = \frac{P_{out}}{P_{in}} \times 100\% = \frac{V_{out} \cdot I_{out}}{V_{in} \cdot I_{in}} \times 100\%
-\label{eq:efficiency}
-\end{equation}
-
-onde $\eta$ representa a eficiência do sistema, $P_{out}$ é a potência de saída e $P_{in}$ é a potência de entrada.
-
-\subsection{Análise Qualitativa}
-
-\lipsum[15] Do ponto de vista qualitativo, observou-se que o comportamento do sistema é fortemente influenciado pelas condições iniciais e pelos parâmetros de controle. A matriz de transformação pode ser representada como:
-
-\begin{equation}
-\mathbf{A} = \begin{bmatrix}
-a_{11} & a_{12} & a_{13} \\
-a_{21} & a_{22} & a_{23} \\
-a_{31} & a_{32} & a_{33}
-\end{bmatrix}
-\label{eq:matrix}
-\end{equation}
-
-\subsection{Discussão}
-
-\lipsum[16-17] A análise dos resultados indica que a abordagem proposta oferece vantagens significativas em relação aos métodos tradicionais. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.
-
-Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+O modelo considera variáveis relevantes, como dias em lactação, produção média durante a lactação, histórico produtivo, idade da búfala, idade ao primeiro parto e intervalo entre partos. A utilização desses atributos permite capturar padrões importantes do ciclo produtivo dos animais, contribuindo para a geração de estimativas mais realistas e aplicáveis ao contexto da propriedade.
 
 % Conclusão
 \section{Conclusão}
 
-\lipsum[18] Com base nos resultados obtidos, conclui-se que a metodologia desenvolvida apresenta excelente desempenho para análise de sistemas complexos. As principais contribuições deste trabalho incluem:
+O desenvolvimento da plataforma demonstrou avanços significativos na organização e no registro das informações zootécnicas, sanitárias, reprodutivas e produtivas do rebanho. Ao substituir planilhas e anotações manuais, a aplicação oferece uma interface simplificada e intuitiva, permitindo que os usuários registrem, consultem e analisem dados de maneira ágil e estruturada. Essa abordagem contribui para a redução de erros de registro, aumento da consistência das informações e facilidade de acesso a históricos completos de cada animal.
 
-\begin{itemize}
-    \item Desenvolvimento de um framework computacional robusto;
-    \item Validação experimental dos modelos propostos;
-    \item Comparação sistemática com métodos existentes;
-    \item Identificação de limitações e oportunidades de melhoria.
-\end{itemize}
+Embora a separação de funções entre as plataformas web e mobile apresente grande potencial, atualmente a versão mobile possui como limitação a sua disponibilidade restrita a dispositivos com sistema operacional Android, o que pode impactar a adoção em ambientes heterogêneos.
 
-Trabalhos futuros incluem a extensão da metodologia para sistemas multidimensionais e a incorporação de técnicas de otimização avançadas.
+O sistema foi populado com dados reais fornecidos pelo Instituto de Zootecnia, o que possibilitou validar sua funcionalidade e a integração com o banco de dados principal. No entanto, ressalta-se a necessidade de testes prolongados em ambiente de produção, considerando que a geração contínua e o crescimento do volume de dados exigem avaliação quanto ao desempenho do sistema e aos custos de infraestrutura em larga escala.
+
+A inteligência artificial, implementada por meio do modelo \textit{Random Forest Regressor}, foi empregada para fornecer predições da produção de leite de cada animal, considerando informações históricas e características individuais. O modelo atingiu um coeficiente de determinação (\(R^2\)) de 0,73, indicando sua capacidade de explicar grande parte da variabilidade observada. Esse resultado evidencia que a abordagem é adequada para uso prático, fornecendo estimativas confiáveis que podem subsidiar decisões de manejo, sem substituir o julgamento técnico do gestor ou médico veterinário.
+
+Dessa forma, o projeto Buffs apresenta-se como uma solução tecnológica promissora para o manejo de bubalinos, contribuindo para a modernização da gestão rural por meio da integração entre coleta de dados, análise automatizada e suporte à decisão. Como trabalhos futuros, destacam-se a ampliação da compatibilidade da aplicação mobile, a realização de testes em larga escala e a incorporação de novos modelos preditivos, visando aumentar ainda mais a precisão e a abrangência das análises realizadas pelo sistema.
 
 % Agradecimentos
 \section*{Agradecimentos}
