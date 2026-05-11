@@ -16,45 +16,45 @@ Database file #1: referencias.bib
 Warning--missing school in LIMA2023
 
 Done.
-You've used 9 entries,
+You've used 8 entries,
             4087 wiz_defined-function locations,
-            882 strings with 9102 characters,
-and the built_in function-call counts, 3542 in all, are:
-= -- 301
-> -- 36
+            876 strings with 8906 characters,
+and the built_in function-call counts, 3206 in all, are:
+= -- 279
+> -- 32
 < -- 2
-+ -- 18
-- -- 9
-* -- 140
-:= -- 696
-add.period$ -- 19
-call.type$ -- 9
++ -- 16
+- -- 8
+* -- 130
+:= -- 638
+add.period$ -- 17
+call.type$ -- 8
 change.case$ -- 9
 chr.to.int$ -- 0
-cite$ -- 10
-duplicate$ -- 289
-empty$ -- 329
-format.name$ -- 9
-if$ -- 770
+cite$ -- 9
+duplicate$ -- 261
+empty$ -- 282
+format.name$ -- 8
+if$ -- 689
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 63
-newline$ -- 52
-num.names$ -- 9
-pop$ -- 140
+int.to.str$ -- 8
+missing$ -- 58
+newline$ -- 49
+num.names$ -- 8
+pop$ -- 124
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 277
+skip$ -- 249
 stack$ -- 0
 substring$ -- 14
-swap$ -- 190
+swap$ -- 176
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 9
+type$ -- 8
 warning$ -- 1
-while$ -- 10
-width$ -- 10
-write$ -- 102
+while$ -- 9
+width$ -- 9
+write$ -- 95
 (There was 1 warning)
