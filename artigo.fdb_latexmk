@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex artigo"] 1778463871.41778 "artigo.aux" "artigo.bbl" "artigo" 1778463915.75551 0
+["bibtex artigo"] 1779000492.64212 "artigo.aux" "artigo.bbl" "artigo" 1779000987.1685 0
   "./referencias.bib" 1774572627.74043 12013 58681da2d173ba2e5c374be387ec81f5 ""
   "/home/v1nisouza/.miktex/texmfs/install/bibtex/bst/ieeetran/IEEEtran.bst" 1774566640.72533 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "artigo.aux" 1778463915.00347 4278 3f52e73c3d424b3a472ac70f08a69be6 "pdflatex"
+  "artigo.aux" 1779000986.4884 4215 f77b33ffbe26745f739f68703d034599 "pdflatex"
   (generated)
   "artigo.bbl"
   "artigo.blg"
   (rewritten before read)
-["pdflatex"] 1778463909.33789 "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" "artigo.pdf" "artigo" 1778463915.75576 0
+["pdflatex"] 1779000979.59569 "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" "artigo.pdf" "artigo" 1779000987.16871 0
   "/home/v1nisouza/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1774566641.11156 118633 68432cd66343f12f5b8f3dfb54f3caca ""
   "/home/v1nisouza/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1759880156.12673 10086445 5638121a40a67cec7a4c30f2727e2fee ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1759880193.43273 2375 baa924870cfb487815765f9094cf3728 ""
@@ -33,7 +33,7 @@
   "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/ec-lmr9.tfm" 1759880193.70186 12084 b7f5e4c003de6f57f07c7e9fee73a37c ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/ec-lmri10.tfm" 1759880193.70197 17148 9556e1b5f936b77a796f68d2d559ba99 ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/ec-lmri12.tfm" 1759880193.70209 17144 271aaf9ebb339934b04110dc5211fba4 ""
-  "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/ec-lmri9.tfm" 1759880193.70246 17148 ca1ae65757b004f470b8cd636199f6fc ""
+  "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/ec-lmtt10.tfm" 1759880193.70602 1372 2ef2c2b492b3c4cd7879fe083abbb061 ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/lmex10.tfm" 1759880193.71511 992 ce925c9346c7613270a79afbee98c070 ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/lmmi10.tfm" 1759880193.71519 1528 6d36b2385e0ca062a654de6ac59cb34f ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/tfm/public/lm/lmmi12.tfm" 1759880193.71527 1524 753b192b18f2991794f9d41a8228510b ""
@@ -68,7 +68,7 @@
   "/home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr9.pfb" 1759880194.05503 121065 50bbfa703ce7e11638752ef5a6d120c7 ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri10.pfb" 1759880194.06603 112593 fda2373ba4420af33949610de4c28fe8 ""
   "/home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri12.pfb" 1759880194.07503 109265 32320cb6133d4d76bf83e27b5eb4009b ""
-  "/home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri9.pfb" 1759880194.10603 109598 cb570392cb143ca78182169795feed7a ""
+  "/home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmtt10.pfb" 1759880194.44 113227 1010e11451afc2822c95dae77c390042 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii" 1759880464.8966 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/generic/babel/babel.sty" 1759880151.12525 146665 9149bce97203d4030d7cbe4f4e85dfc4 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/generic/babel/locale/pt/babel-portuguese.tex" 1759880151.08757 377 a69e71771c6844f0bcdc5c3a41dd9133 ""
@@ -193,6 +193,7 @@
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/omxlmex.fd" 1759880194.51021 568 a5494d810f2680caf10205cd1226c76c ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ot1lmr.fd" 1759880194.51029 1882 28c08db1407ebff35a658fd141753d16 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/t1lmr.fd" 1759880194.51096 1867 996fe743d88a01aca041ed22cc10e1bb ""
+  "/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/t1lmtt.fd" 1759880194.51107 2682 555da1faa2e266801e4b221d01a42cb5 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd" 1759880194.51145 1914 884882d7ebb0fd65cea93fca77ff6f5a ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty" 1761690931.44213 1090 bae35ef70b3168089ef166db3e66f5b2 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty" 1761690931.44194 373 00b204b1d7d095b892ad31a7494b0373 ""
@@ -210,18 +211,18 @@
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/tools/array.sty" 1759880334.44033 15698 f5f20b24886bb50156054c53e19b13fd ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/url/url.sty" 1759880405.96648 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/v1nisouza/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1759880204.71933 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" 1778463908.73737 46576 8cf6469343751d0a85c371694b562f2e ""
-  "artigo.aux" 1778463915.00347 4278 3f52e73c3d424b3a472ac70f08a69be6 "pdflatex"
-  "artigo.bbl" 1778463871.60387 2731 8106c6763a7ec62b78b619056aead265 "bibtex artigo"
-  "artigo.out" 1778463915.00547 1289 30d8077fa91e52a727bc1391e3fedc3f "pdflatex"
-  "artigo.tex" 1778463908.73737 46576 8cf6469343751d0a85c371694b562f2e ""
+  "/home/v1nisouza/Área de trabalho/artigo-latex/artigo.tex" 1779000978.96683 47391 cf02e517238d8ab4cd9e5e925af3d4b4 ""
+  "artigo.aux" 1779000986.4884 4215 f77b33ffbe26745f739f68703d034599 "pdflatex"
+  "artigo.bbl" 1779000492.82846 2731 8106c6763a7ec62b78b619056aead265 "bibtex artigo"
+  "artigo.out" 1779000986.4894 1352 07f7bbeeb4f3f9f0c79ca1770c991eba "pdflatex"
+  "artigo.tex" 1779000978.96683 47391 cf02e517238d8ab4cd9e5e925af3d4b4 ""
   "imgs/DiagramaMobile.png" 1778438100.87861 3815171 442f2eb45c39580b8eb10013d98d22f3 ""
   "imgs/DiagramaWeb.png" 1778438167.34734 4186801 94ec68efc1b6babff00242e8507e4cc3 ""
+  "imgs/InfraBuffs.png" 1778715472.61132 2621189 0cd1620e48fa394474453a4eb8fcd258 ""
   "imgs/R.jpeg" 1777290353.62488 124420 904ecfafd4080ba7ee3e3f768dc89c90 ""
   "imgs/base/cps-logo.png" 1774566136.69876 2862 d588855dab37cf02df5929f82dd50a56 ""
   "imgs/base/fatec-rgt.png" 1774566136.69895 9297 895b781ed3c57ef1597e82c85b50132b ""
   "imgs/base/governo-sp-secretaria-logo.png" 1774566136.69952 53030 823b25ca4fa668cc2a408147ca9ebe91 ""
-  "imgs/buffs-arch-model.png" 1777290353.59041 413406 f672e77e2e849697906ef69d2428613f ""
   "imgs/variaveis.jpeg" 1778453149.47041 180474 46ea0ea7fee322ba8619a5cd68854fc9 ""
   (generated)
   "artigo.aux"

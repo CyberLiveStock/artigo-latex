@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.7)  10 MAY 2026 22:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.7)  17 MAY 2026 03:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -602,7 +602,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip72
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 87.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 89.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (artigo.aux
@@ -618,24 +618,24 @@ LaTeX Warning: Label `fig:fluxograma2' multiply defined.
 )
 \openout1 = `artigo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
  (/home/v1nisouza/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count346
@@ -693,49 +693,49 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 87.
+Package hyperref Info: Link coloring OFF on input line 89.
 (artigo.out) (artigo.out)
 \@outlinefile=\write4
 \openout4 = `artigo.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 93.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 95.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 93.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 95.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 93.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 95.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 93.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 95.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 93.
+(Font)              <12> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 93.
+(Font)              <8> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 93.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+(Font)              <6> on input line 95.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
  (/home/v1nisouza/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 93.
+(Font)              <10> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 93.
+(Font)              <7> on input line 95.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 93.
+(Font)              <5> on input line 95.
 
-Overfull \hbox (19.28464pt too wide) in paragraph at lines 109--110
+Overfull \hbox (19.28464pt too wide) in paragraph at lines 111--112
 \T1/lmr/m/n/10.95 O manejo eficiente de bubalinos é essencial para o desenvolvimento da pecuária leiteira, especialmente
  []
 
@@ -759,217 +759,205 @@ Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input
 [1
 
 {/home/v1nisouza/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc} <./imgs/base/fatec-rgt.png> <./imgs/base/cps-logo.png> <./imgs/base/governo-sp-secretaria-logo.png>]
-Overfull \hbox (6.57002pt too wide) in paragraph at lines 123--124
-\T1/lmr/m/n/10.95 aumentar essa produtividade, práticas como a seleção de matrizes (definindo um mínimo produtivo
+Overfull \hbox (8.42583pt too wide) in paragraph at lines 128--129
+\T1/lmr/m/n/10.95 pelo Instituto de Zootecnia, permitindo analisar diferentes formas de gerenciamento de informações
  []
 
 
-Overfull \hbox (5.50758pt too wide) in paragraph at lines 125--126
-\T1/lmr/m/n/10.95 gado bovino, o que pode gerar inconsistências no controle da reprodução, lactação e produtividade,
+Overfull \hbox (19.10089pt too wide) in paragraph at lines 130--131
+[]\T1/lmr/m/n/10.95 As observações realizadas evidenciaram que nenhum dos produtores utilizava softwares específicos
  []
 
 
-Overfull \hbox (11.82375pt too wide) in paragraph at lines 127--128
-\T1/lmr/m/n/10.95 Ribeira. Por meio dessas visitas, foi possível conduzir a pesquisa técnica, adotando-se a metodologia
+Overfull \hbox (25.55232pt too wide) in paragraph at lines 130--131
+\T1/lmr/m/n/10.95 identificadas, destacou-se o controle reprodutivo, uma vez que sistemas parametrizados exclusivamente
+ []
+
+
+Overfull \hbox (18.67632pt too wide) in paragraph at lines 130--131
+\T1/lmr/m/n/10.95 para bovinos podem gerar inconsistências no acompanhamento das búfalas devido às particularidades
  []
 
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 130.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 131.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 130.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 131.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 130.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 131.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [2]
-Overfull \hbox (2.32964pt too wide) in paragraph at lines 131--132
-\T1/lmr/m/n/10.95 da propriedade?^^Q. Ambos demonstraram interesse em uma solução voltada ao setor, reconhecendo
+Overfull \hbox (19.98535pt too wide) in paragraph at lines 136--137
+\T1/lmr/m/n/10.95 gerenciamento de bubalinos leiteiros, integrando funcionalidades zootécnicas, sanitárias, reprodutivas
  []
 
 
-Overfull \hbox (22.65163pt too wide) in paragraph at lines 137--138
+Overfull \hbox (22.65163pt too wide) in paragraph at lines 138--139
 \T1/lmr/m/n/10.95 Ambiente (5) e Tecnologia (7). Também contempla as linhas de extensão voltadas ao Desenvolvimento
  []
 
-
-
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 145.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 145.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 145.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[3]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 147.
- (/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 149.
+(/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (9.27759pt too wide) in paragraph at lines 148--149
+Overfull \hbox (9.27759pt too wide) in paragraph at lines 150--151
 []\T1/lmr/m/n/10.95 Controlar informações sanitárias, incluindo vacinas, medicamentos e tratamentos, garantindo
  []
 
 
-Overfull \hbox (5.19832pt too wide) in paragraph at lines 156--157
+
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 152.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 152.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 152.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+[3{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}]
+Overfull \hbox (5.19832pt too wide) in paragraph at lines 158--159
 []\T1/lmr/m/n/10.95 Essas funcionalidades, integradas em uma única plataforma digital, visam fornecer ao produtor
  []
 
 
-
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 164.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 164.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 164.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[4{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}]
-Overfull \hbox (4.9187pt too wide) in paragraph at lines 165--166
+Overfull \hbox (4.9187pt too wide) in paragraph at lines 168--169
 \T1/lmr/m/n/10.95 resultados significativos. O controle reprodutivo dos bovinos tornou-se mais organizado e eficiente,
  []
 
 
-Overfull \hbox (4.25932pt too wide) in paragraph at lines 169--170
+
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 169.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 169.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 169.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+[4]
+Overfull \hbox (4.25932pt too wide) in paragraph at lines 172--173
 \T1/lmr/m/n/10.95 rebanhos bovinos leiteiros, não contemplando particularidades de outras espécies, como bubalinos,
  []
 
 
-Overfull \hbox (4.65451pt too wide) in paragraph at lines 169--170
+Overfull \hbox (4.65451pt too wide) in paragraph at lines 172--173
 \T1/lmr/m/n/10.95 soluções propostas ainda demonstram limitações consideráveis no uso prático, como a dependência
  []
 
 
-Overfull \hbox (10.70795pt too wide) in paragraph at lines 169--170
+Overfull \hbox (10.70795pt too wide) in paragraph at lines 172--173
 \T1/lmr/m/n/10.95 de conectividade constante, o predomínio de aplicações web ou desktop que restringem a mobilidade
  []
 
 
-Overfull \hbox (12.89615pt too wide) in paragraph at lines 169--170
+Overfull \hbox (12.89615pt too wide) in paragraph at lines 172--173
 \T1/lmr/m/n/10.95 e dificultam o registro de informações em campo, bem como a ausência de validação em propriedades
  []
 
 
-
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 172.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 172.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 172.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[5]
-Overfull \hbox (42.1856pt too wide) in paragraph at lines 174--175
+Overfull \hbox (42.1856pt too wide) in paragraph at lines 178--179
 \T1/lmr/m/n/10.95 A plataforma proposta, denominada Buffs, consiste no desenvolvimento de uma aplicação multiplataforma
  []
 
 
-Overfull \hbox (13.65703pt too wide) in paragraph at lines 174--175
+Overfull \hbox (13.65703pt too wide) in paragraph at lines 178--179
 \T1/lmr/m/n/10.95 controle preciso e acompanhamento em tempo real do rebanho, desde que alimentada continuamente
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 182.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 182.
 
-Overfull \hbox (20.72337pt too wide) in paragraph at lines 182--184
-\T1/lmr/m/n/10.95 encontra-se hospedada na Vercel, uma solução \T1/lmr/m/it/10.95 serverless \T1/lmr/m/n/10.95 que dispensa a necessidade de gerenciamento
+
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 181.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 181.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 181.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+[5]
+Overfull \hbox (11.16342pt too wide) in paragraph at lines 186--187
+\T1/lmr/m/n/10.95 interdependentes e simplificação do gerenciamento operacional, em contraste com modelos baseados
  []
 
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 188.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 188.
 
-Overfull \hbox (22.14815pt too wide) in paragraph at lines 185--186
-\T1/lmr/m/n/10.95 desenvolvida em \T1/lmr/m/it/10.95 TypeScript \T1/lmr/m/n/10.95 com o framework \T1/lmr/m/it/10.95 Nest.js\T1/lmr/m/n/10.95 . Como parte do back-end, foram implementados
+Overfull \hbox (21.99315pt too wide) in paragraph at lines 190--191
+\T1/lmr/m/n/10.95 isolada, garantindo comunicação segura e controlada entre os contêineres, sem exposição desnecessária
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 192.
+(/home/v1nisouza/.miktex/texmfs/install/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (11.46791pt too wide) in paragraph at lines 192--193
+\T1/lmr/m/n/10.95 individual da produção leiteira, análise genealógica com cálculo de consanguinidade pelo Coeficiente
  []
 
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 188.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 193.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 188.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 193.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 188.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 193.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [6]
-Overfull \hbox (15.05272pt too wide) in paragraph at lines 191--192
-[]\T1/lmr/m/n/10.95 Para o armazenamento das informações, o banco de dados do sistema (Etapa VI) foi desenvolvido
- []
-
-
-Overfull \hbox (1.80017pt too wide) in paragraph at lines 191--192
-\T1/lmr/m/n/10.95 Atualmente, o banco de dados encontra-se hospedado na nuvem por meio da plataforma \T1/lmr/m/it/10.95 Supabase\T1/lmr/m/n/10.95 ,
- []
-
-
-Overfull \hbox (3.8039pt too wide) in paragraph at lines 191--192
-\T1/lmr/m/n/10.95 que oferece compatibilidade nativa com o PostgreSQL, além de recursos adicionais de autenticação
- []
-
-<imgs/buffs-arch-model.png, id=108, 2659.9375pt x 2208.25pt>
-File: imgs/buffs-arch-model.png Graphic file (type png)
-<use imgs/buffs-arch-model.png>
-Package pdftex.def Info: imgs/buffs-arch-model.png  used on input line 195.
-(pdftex.def)             Requested size: 318.66948pt x 264.54053pt.
+<imgs/InfraBuffs.png, id=112, 5354.0025pt x 5786.61874pt>
+File: imgs/InfraBuffs.png Graphic file (type png)
+<use imgs/InfraBuffs.png>
+Package pdftex.def Info: imgs/InfraBuffs.png  used on input line 206.
+(pdftex.def)             Requested size: 273.14923pt x 295.17546pt.
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 200.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 210.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 200.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 210.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 200.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 210.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[7 <./imgs/buffs-arch-model.png>]
-Overfull \hbox (9.09554pt too wide) in paragraph at lines 204--205
+[7]
+Overfull \hbox (9.09554pt too wide) in paragraph at lines 215--216
 \T1/lmr/m/n/10.95 permite que os dados permaneçam disponíveis localmente no dispositivo, possibilitando a utilização
  []
 
 
-Overfull \hbox (4.59163pt too wide) in paragraph at lines 206--207
+Overfull \hbox (4.59163pt too wide) in paragraph at lines 217--218
 []\T1/lmr/m/n/10.95 Durante a utilização offline, o sistema permite a realização de diferentes operações relacionadas
  []
 
-
-Overfull \hbox (6.50786pt too wide) in paragraph at lines 214--215
-[]\T1/lmr/m/n/10.95 Além disso, a aplicação conta com integração a dispositivos de identificação por radiofrequência
- []
-
-<imgs/DiagramaMobile.png, id=116, 6202.17125pt x 8222.72pt>
-File: imgs/DiagramaMobile.png Graphic file (type png)
-<use imgs/DiagramaMobile.png>
-Package pdftex.def Info: imgs/DiagramaMobile.png  used on input line 218.
-(pdftex.def)             Requested size: 318.66948pt x 422.45226pt.
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
@@ -984,195 +972,176 @@ File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 222.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[8]
-Overfull \hbox (4.85564pt too wide) in paragraph at lines 227--228
+[8 <./imgs/InfraBuffs.png>]
+Overfull \hbox (6.50786pt too wide) in paragraph at lines 225--226
+[]\T1/lmr/m/n/10.95 Além disso, a aplicação conta com integração a dispositivos de identificação por radiofrequência
+ []
+
+<imgs/DiagramaMobile.png, id=128, 6202.17125pt x 8222.72pt>
+File: imgs/DiagramaMobile.png Graphic file (type png)
+<use imgs/DiagramaMobile.png>
+Package pdftex.def Info: imgs/DiagramaMobile.png  used on input line 229.
+(pdftex.def)             Requested size: 273.14923pt x 362.10193pt.
+
+
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 238.
+(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 238.
+(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 238.
+(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
+[9 <./imgs/DiagramaMobile.png>]
+Overfull \hbox (4.85564pt too wide) in paragraph at lines 238--239
 \T1/lmr/m/n/10.95 reprodutivas e operacionais. O \T1/lmr/m/it/10.95 dashboard \T1/lmr/m/n/10.95 atua como elemento central da plataforma, consolidando
  []
 
 
-
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 230.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 230.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 230.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[9 <./imgs/DiagramaMobile.png>]
-Overfull \hbox (11.22197pt too wide) in paragraph at lines 231--232
+Overfull \hbox (11.22197pt too wide) in paragraph at lines 242--243
 []\T1/lmr/m/n/10.95 Outro recurso disponível é o módulo de gestão de rebanho (Etapa VII), que permite acompanhar
  []
 
 
-Overfull \hbox (8.48407pt too wide) in paragraph at lines 233--234
+Overfull \hbox (8.48407pt too wide) in paragraph at lines 244--245
 []\T1/lmr/m/n/10.95 No módulo de produção leiteira (Etapa IX), o gestor pode acompanhar indicadores relacionados
  []
 
 
-Overfull \hbox (14.62965pt too wide) in paragraph at lines 233--234
+Overfull \hbox (14.62965pt too wide) in paragraph at lines 244--245
 \T1/lmr/m/n/10.95 ao desempenho produtivo da propriedade, identificando animais com maior ou menor produtividade,
  []
 
-<imgs/DiagramaWeb.png, id=127, 8222.72pt x 6055.62375pt>
-File: imgs/DiagramaWeb.png Graphic file (type png)
-<use imgs/DiagramaWeb.png>
-Package pdftex.def Info: imgs/DiagramaWeb.png  used on input line 244.
-(pdftex.def)             Requested size: 364.19667pt x 268.14845pt.
 
-Overfull \hbox (3.82861pt too wide) in paragraph at lines 241--247
+Overfull \hbox (3.82861pt too wide) in paragraph at lines 252--253
 []\T1/lmr/m/n/10.95 Todos os módulos da plataforma encontram-se integrados ao \T1/lmr/m/it/10.95 dashboard \T1/lmr/m/n/10.95 principal, contribuindo
  []
 
+<imgs/DiagramaWeb.png, id=135, 8222.72pt x 6055.62375pt>
+File: imgs/DiagramaWeb.png Graphic file (type png)
+<use imgs/DiagramaWeb.png>
+Package pdftex.def Info: imgs/DiagramaWeb.png  used on input line 256.
+(pdftex.def)             Requested size: 273.14923pt x 201.15753pt.
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 248.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 260.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 248.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 260.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 248.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 260.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
 [10]
-Overfull \hbox (10.03656pt too wide) in paragraph at lines 249--251
-[]\T1/lmr/m/n/10.95 Após a análise do fluxo apresentado, nota-se que grande parte do sistema encontra-se hospedada
+Overfull \hbox (16.69907pt too wide) in paragraph at lines 264--265
+\T1/lmr/m/n/10.95 baseado no algoritmo \T1/lmr/m/it/10.95 Random Forest Regressor[][][] \T1/lmr/m/n/10.95 foi avaliado por meio do coeficiente de determinação
  []
 
-<imgs/R.jpeg, id=132, 1606.0pt x 1606.0pt>
+<imgs/R.jpeg, id=142, 1606.0pt x 1606.0pt>
 File: imgs/R.jpeg Graphic file (type jpg)
 <use imgs/R.jpeg>
-Package pdftex.def Info: imgs/R.jpeg  used on input line 260.
-(pdftex.def)             Requested size: 318.66948pt x 318.67024pt.
+Package pdftex.def Info: imgs/R.jpeg  used on input line 270.
+(pdftex.def)             Requested size: 186.65175pt x 186.63431pt.
+
+Overfull \hbox (3.31587pt too wide) in paragraph at lines 275--276
+\T1/lmr/m/n/10.95 maior precisão em cenários mais representados no conjunto de treinamento, refletindo diretamente
+ []
+
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 264.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 276.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 264.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 276.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 264.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 276.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[11{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc} <./imgs/DiagramaWeb.png>]
-Overfull \hbox (9.21794pt too wide) in paragraph at lines 269--270
-\T1/lmr/m/n/10.95 características zootécnicas dos animais, incluindo dias em lactação final (\T1/lmr/m/it/10.95 dias_em_lactacao_final\T1/lmr/m/n/10.95 ),
+[11{/home/v1nisouza/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc} <./imgs/DiagramaWeb.png> <./imgs/R.jpeg>]
+Overfull \hbox (1.77975pt too wide) in paragraph at lines 279--280
+\T1/lmr/m/n/10.95 lactação (\T1/lmr/m/it/10.95 producao_media_inicial_lact\T1/lmr/m/n/10.95 ), produção média histórica (\T1/lmr/m/it/10.95 producao_media_historica\T1/lmr/m/n/10.95 ),
  []
 
 
-Overfull \hbox (1.72446pt too wide) in paragraph at lines 269--270
-\T1/lmr/m/n/10.95 (\T1/lmr/m/it/10.95 producao_media_historica\T1/lmr/m/n/10.95 ), idade da mãe em anos (\T1/lmr/m/it/10.95 idade_mae_anos\T1/lmr/m/n/10.95 ), estação do ano (\T1/lmr/m/it/10.95 estacao\T1/lmr/m/n/10.95 )
+Overfull \hbox (15.50443pt too wide) in paragraph at lines 279--280
+\T1/lmr/m/n/10.95 dias (\T1/lmr/m/it/10.95 idade_primeiro_parto_dias\T1/lmr/m/n/10.95 ). Conforme apresentado na Figura 5, os resultados demonstraram
  []
 
-<imgs/variaveis.jpeg, id=141, 1606.0pt x 1606.0pt>
+<imgs/variaveis.jpeg, id=154, 1606.0pt x 1606.0pt>
 File: imgs/variaveis.jpeg Graphic file (type jpg)
 <use imgs/variaveis.jpeg>
-Package pdftex.def Info: imgs/variaveis.jpeg  used on input line 275.
-(pdftex.def)             Requested size: 318.66948pt x 318.67024pt.
+Package pdftex.def Info: imgs/variaveis.jpeg  used on input line 283.
+(pdftex.def)             Requested size: 227.62206pt x 227.60759pt.
+
+Overfull \hbox (33.76294pt too wide) in paragraph at lines 292--293
+\T1/lmr/m/n/10.95 possibilitando que informações fossem registradas diretamente em campo e sincronizadas posteriormente
+ []
+
 
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 279.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 293.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 279.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 293.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 279.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 293.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[12 <./imgs/R.jpeg>]
-Overfull \hbox (18.52528pt too wide) in paragraph at lines 282--283
-\T1/lmr/m/n/10.95 reprodutivo, monitoramento da produção leiteira, visualização da árvore genealógica e gerenciamento
- []
-
-
-Overfull \hbox (1.3589pt too wide) in paragraph at lines 282--283
-\T1/lmr/m/n/10.95 de piquetes por meio de mapas interativos. Além disso, a plataforma possibilitou o funcionamento
- []
-
-
-Overfull \hbox (2.58301pt too wide) in paragraph at lines 286--287
+[12 <./imgs/variaveis.jpeg>]
+Overfull \hbox (2.58301pt too wide) in paragraph at lines 296--297
 []\T1/lmr/m/n/10.95 A utilização de dados reais fornecidos pelo Instituto de Zootecnia permitiu validar a integração
  []
 
 
+Overfull \hbox (13.0502pt too wide) in paragraph at lines 307--308
+\T1/lmr/m/n/10.95 entanto, ressalta-se a necessidade de avaliações prolongadas em ambiente de produção, considerando
+ []
+
+
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 287.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 314.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 287.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 314.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 287.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 314.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[13 <./imgs/variaveis.jpeg>]
-Overfull \hbox (11.55872pt too wide) in paragraph at lines 290--291
-\T1/lmr/m/n/10.95 planilhas e anotações manuais, a aplicação oferece uma interface simplificada e intuitiva, permitindo
- []
-
-
-Overfull \hbox (2.19072pt too wide) in paragraph at lines 290--291
-\T1/lmr/m/n/10.95 abordagem contribui para a redução de erros de registro, aumento da consistência das informações
- []
-
-
-Overfull \hbox (8.54868pt too wide) in paragraph at lines 294--295
-\T1/lmr/m/n/10.95 que a geração contínua e o crescimento do volume de dados exigem avaliação quanto ao desempenho
- []
-
-
-Overfull \hbox (3.19402pt too wide) in paragraph at lines 296--297
-\T1/lmr/m/n/10.95 empregada para fornecer predições da produção de leite de cada animal, considerando informações
- []
-
-(artigo.bbl
+[13] (artigo.bbl)
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 47.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 323.
 (pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 47.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 323.
 (pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 47.
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 323.
 (pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[14])
-
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 309.
-(pdftex.def)             Requested size: 50.38678pt x 22.76228pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 309.
-(pdftex.def)             Requested size: 38.12112pt x 25.6073pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on input line 309.
-(pdftex.def)             Requested size: 168.61908pt x 29.87547pt.
-[15] (artigo.aux)
+[14] (artigo.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1182,20 +1151,20 @@ L3 programming layer <2025-09-02>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `artigo.out' has not changed.
-(rerunfilecheck)             Checksum: 30D8077FA91E52A727BC1391E3FEDC3F;1289.
+(rerunfilecheck)             Checksum: 07F7BBEEB4F3F9F0C79CA1770C991EBA;1352.
  ) 
 Here is how much of TeX's memory you used:
- 25042 strings out of 470067
- 464420 string characters out of 5482313
- 942121 words of memory out of 5000000
- 52942 multiletter control sequences out of 15000+600000
- 710596 words of font info for 99 fonts, out of 8000000 for 9000
+ 25087 strings out of 470067
+ 465090 string characters out of 5482313
+ 943206 words of memory out of 5000000
+ 52979 multiletter control sequences out of 15000+600000
+ 706652 words of font info for 99 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 84i,19n,87p,1669b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmmi10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr6.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr7.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr8.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr9.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri9.pfb>
-Output written on artigo.pdf (15 pages, 2707764 bytes).
+ 84i,19n,87p,1669b,913s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbx10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmmi10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr6.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr7.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr8.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmr9.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri10.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmri12.pfb></home/v1nisouza/.miktex/texmfs/install/fonts/type1/public/lm/lmtt10.pfb>
+Output written on artigo.pdf (14 pages, 3330902 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 247 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
